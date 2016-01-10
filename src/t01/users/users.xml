@@ -1,0 +1,24 @@
+<users>
+    <groups>
+        <group>
+            <id>1</id>
+            <name>admins</name>
+        </group>
+        <group>
+            <id>2</id>
+            <name>users</name>
+        </group>
+    </groups>
+    <user group-id="1">
+        <id>1</id>
+        <name>Maksim</name>
+        <login>admin</login>
+        <password>admin</password>
+    </user>
+    <user group-id="2">
+        <id>2</id>
+        <name>Anton</name>
+        <login>name</login>
+        <password>name</password>
+    </user>
+</users>
